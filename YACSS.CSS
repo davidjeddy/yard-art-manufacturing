@@ -1,0 +1,13 @@
+@charset "iso-8859-1";
+
+BODY {scrollbar-base-color:#D09259;scrollbar-face-color:#D09259;scrollbar-shadow-color:#000000;scrollbar-highlight-color:#000000;scrollbar-arrow-color:#000000;}
+
+Font {font-size:14;}
+
+FONT.minititle {font-size:18;font-weight:bolder;}
+
+FONt.bodytext {font-size:13;font-weight:bolder;}
+
+P.bodytext {padding:12;font-size:13}
+
+LI {font-size:13;}
